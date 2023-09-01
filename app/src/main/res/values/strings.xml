@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">App Calculadora</string>
+    <string name="app_name" translatable="false">Calculadora</string>
     <string name="calculadora" translatable="false">Calculadora</string>
     <string name="name1" translatable="false"> </string>
     <string name="name2" translatable="false"> </string>

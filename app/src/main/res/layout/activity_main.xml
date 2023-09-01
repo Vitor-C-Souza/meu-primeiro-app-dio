@@ -173,7 +173,7 @@
         android:autofillHints=""
         android:ems="10"
         android:enabled="false"
-        android:hint="@string/edTxt_result"
+        android:hint="@string/result"
         android:inputType="numberDecimal"
         android:minHeight="48dp"
         android:textAlignment="center"

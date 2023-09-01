@@ -1,9 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">Calculadora</string>
     <string name="calculadora" translatable="false">Calculadora</string>
-    <string name="name1" translatable="false"> </string>
-    <string name="name2" translatable="false"> </string>
     <string name="numero_1" translatable="false">Numero 1</string>
+    <string name="numero_2" translatable="false">Numero 2</string>
     <string name="digite_2" translatable="false">Digite o segundo numero</string>
     <string name="digite_1" translatable="false">Digite o primeiro numero</string>
     <string name="soma" translatable="false">Soma</string>
@@ -11,5 +10,5 @@
     <string name="multiplicar" translatable="false">Multiplicar</string>
     <string name="subtrair" translatable="false">subtrair</string>
     <string name="resultado" translatable="false">Resultado</string>
-    <string name="edTxt_result" translatable="false">Resultado exibido aqui</string>
+    <string name="result" translatable="false">Resultado exibido aqui</string>
 </resources>

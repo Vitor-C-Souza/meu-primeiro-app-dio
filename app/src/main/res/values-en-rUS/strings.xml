@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App calculator</string>
+    <string name="app_name">Calculator</string>
     <string name="calculadora">Calculator</string>
     <string name="numero_1">Number 1</string>
     <string name="digite_2">Type second number</string>
@@ -10,5 +10,6 @@
     <string name="multiplicar">Multiply</string>
     <string name="subtrair">Subtract</string>
     <string name="resultado">Result</string>
-    <string name="edTxt_result">Show result here</string>
+    <string name="result">Show result here</string>
+    <string name="numero_2">Number 2</string>
 </resources>

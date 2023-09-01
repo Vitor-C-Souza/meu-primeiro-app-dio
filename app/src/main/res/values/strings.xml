@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">Calculadora</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="name1"> </string>
+    <string name="name2"> </string>
+    <string name="numero_1">Numero 1</string>
+    <string name="digite_2">Digite o segundo numero</string>
+    <string name="digite_1">Digite o primeiro numero</string>
+    <string name="soma">Soma</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="subtrair">subtrair</string>
+    <string name="resultado">Resultado</string>
+    <string name="edTxt_result">Resultado exibido aqui</string>
 </resources>

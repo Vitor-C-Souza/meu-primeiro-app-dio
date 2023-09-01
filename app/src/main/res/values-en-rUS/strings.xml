@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App calculator</string>
+    <string name="calculadora">Calculator</string>
+    <string name="numero_1">Number 1</string>
+    <string name="digite_2">Type second number</string>
+    <string name="digite_1">Type first number</string>
+    <string name="soma">Sum</string>
+    <string name="dividir">Divide</string>
+    <string name="multiplicar">Multiply</string>
+    <string name="subtrair">Subtract</string>
+    <string name="resultado">Result</string>
+    <string name="edTxt_result">Show result here</string>
+</resources>
